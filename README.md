@@ -4,9 +4,9 @@
 
 
 
-![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
+<h1 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB </a></h1>
 
-<h1 align="center"> 🐍 Python-AccessAndDownloadDataDB </h1>
+![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
 
 Hello! This code was developed by me using the python object oriented principles.
 
