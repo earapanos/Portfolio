@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/earapanos">  Eduardo Rapanos Portfolio </h1></a>
 
 
-<h1 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis">  🏙 Florianópolis Downtown Real State Data Analysis </a></h1>
+<h2 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis">  🏙 Florianópolis Downtown Real State Data Analysis </a></h2>
 
 
 ![Design sem nome](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
@@ -29,7 +29,7 @@ This processes were developed in this project:
 
 
 
-<h1 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB </a></h1>
+<h2 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB </a></h2>
 
 ![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
 
@@ -47,7 +47,7 @@ I projected this code in a way to turn easy to change and addapting like the nec
 
 
 
-<h1 align="center"> <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable </a></h1>
+<h2 align="center"> <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable </a></h2>
 
 ![pivoting_table (1)](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/bc416ac2-2860-41ed-9aad-f971da4ede7f)
 
