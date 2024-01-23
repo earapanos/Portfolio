@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/earapanos">  Eduardo Rapanos Portfolio </h1></a>
+<h1 align="center"><a href="https://github.com/earapanos">📖 Eduardo Rapanos Portfolio</h1></a>
 
 
 
