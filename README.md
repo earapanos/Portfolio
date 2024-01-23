@@ -15,7 +15,7 @@ For maintain the value of the products of the LOCATES co., I selected old advert
 
 We will explore the Real State Data from the Downtown neighborhood of Florianópolis City, Brazil. The data were collected from internet adverts that is, they are real ads. We are interested in the propoerties which are saling, to indentify the **spatial distribution of the apartament meter square of these properties on the neighbohood** and compare secondarily it if a role data, including data without coordinates.
 
-![image](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d)
+<a href:"https://earapanos.github.io/RealStateDataAnalysis/"> ![image](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d)</a>
 
 This processes were developed in this project:
 
