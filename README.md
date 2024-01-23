@@ -1,32 +1,23 @@
 <h1 align="center"><a href="https://github.com/earapanos">  Eduardo Rapanos Portfolio </h1></a>
 
 
-<h2 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis">  🏙 Florianópolis Downtown Real State Data Analysis </a></h2>
-
-
 ![Design sem nome](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
 
 
-Today I will propose many insights about the Florianópolis Downtown Real State Data. 
+<h1 align="center"> 🏙 Florianópolis Downtown Real State Data Analysis </h1>
 
-The data was provided by the LOCATES technologic company, that I work nowadays, with the purpose of I apply the knowledge of the Data Science Course, that I've been doing.
+Florianópolis is the capital and second largest city of the state of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland. It has a population of 508,826, according to the 2020 population estimate, the second-most populous city in the state. The city is known for having the country's **third highest Human Development Index score among all Brazilian cities**. The economy of Florianópolis is heavily based on **information technology, tourism, and services**. The city has 60 beaches and is a center of surfing activity.
 
-For maintain the value of the products of the LOCATES co., I selected old adverts from the first semester of 2022.
-
-We will explore the Real State Data from the Downtown neighborhood of Florianópolis City, Brazil. The data were collected from internet adverts that is, they are real ads. We are interested in the propoerties which are saling, to indentify the **spatial distribution of the apartament meter square of these properties on the neighbohood** and compare secondarily it if a role data, including data without coordinates.
+The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
 
 <h4 align="center"><a href="https://earapanos.github.io/RealStateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
 <a href="https://earapanos.github.io/RealStateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
 
-This processes were developed in this project:
 
-1. Download the data from LOCATES co. database;
-2. Importing the data set to Kaggle;
-3. Data structure and content analysis;
-4. Data cleaning;
-5. Data visualization: analysis between de data with values to lat/lon columns and data with NaN values to these columns;
-6. Data visualization: a Square Meter Apartament Value Map from Downtown of Florianópolis, Santa Catarina, Brazil;
-7. Final Considerations.
+The **Real State Data** used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
+
+For use the **Real State Data** were previously developed some steps of exporting, analysis, cleaning and transformation of the data. All those processes could be followed <a href="https://github.com/earapanos/RealStateDataAnalysis"> **here in the Linkedin**</a> or <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> **here in the Kaggle.** </a>
+
 
 
 
