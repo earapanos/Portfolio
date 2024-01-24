@@ -15,7 +15,7 @@ The Florianópolis natural characteristics, your great Development Index Score a
 <h4 align="center"><a href="https://earapanos.github.io/RealStateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
 <a href="https://earapanos.github.io/RealStateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
 
-<h3 align="left"><a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard</a></h3>
+<h3 align="center"><a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard</a></h3>
 
 This dashboard is a continuation of my <a href="https://github.com/earapanos/RealStateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
 
