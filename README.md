@@ -22,8 +22,7 @@ This dashboard is a continuation of my <a href="https://github.com/earapanos/Rea
 The dashboard was designed to be an interactive tool that enables real estate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
 
 <h4 align="center"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">  👇 Click on image to access the Dashboard. </a></h4>
-<a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateBusinessIntelligence/assets/52800638/ec335143-eb66-4e18-af02-df7438a8f1e5" alt="dashboard"> </a> 
-
+<a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateBusinessIntelligence/assets/52800638/af71e366-1c34-4ae8-873c-e74fe169b4ff" alt="dashboard"> </a> 
 
 
 
