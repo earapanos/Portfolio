@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left"><a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real State Data Analysis</a></h3>
+<h2 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence</a></h2>
 
 ![Design sem nome](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
 
@@ -23,7 +23,7 @@ The dashboard was designed to be an interactive tool that enables real estate de
 
 * <h4 align="left"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">🔗 Dashboard - The Downtown Real State Business Intelligence</a></h4>
 
-
+<h3>Data source</h3>
 The Real State Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
 
 For use the Real State Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
