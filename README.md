@@ -2,8 +2,9 @@
 
 <h3>Index:</h3>
 
-<a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md">1. 🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence</a>
-
+1.1 <a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md">🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence;</a>
+1.2 <a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard;</a>
+2. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB;</a>
 
 <h2 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence</a></h2>
 
