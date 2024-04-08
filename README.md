@@ -3,7 +3,8 @@
 <h4>Index:</h4>
 
 1. <a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md">🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence;</a>
-    1.2 <a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard;</a>
+
+1.2 <a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard;</a>
 2. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB;</a>
 3. <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable; </a>
 4. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
