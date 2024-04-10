@@ -2,8 +2,8 @@
 
 <h3>🔗 Index:</h4>
 
-1. <a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md">🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence;</a>
-2. <a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard;</a>
+1. <a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md">🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence;</a>
+2. <a href="https://github.com/earapanos/RealestateBusinessIntelligence">🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard;</a>
 3. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB;</a>
 4. <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable; </a>
 5. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
@@ -11,39 +11,39 @@
 
 <h2></h2>
 
-<h2 align="center"><a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real State Data Analysis and Business Intelligence</a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence</a></h2>
 
-![Design sem nome](https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
+![Design sem nome](https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
 
 
-Florianópolis is the capital and second largest city of the state of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland. It has a population of 508,826, according to the 2020 population estimate, the second-most populous city in the state. The city is known for having the country's **third highest Human Development Index score among all Brazilian cities**. The economy of Florianópolis is heavily based on **information technology, tourism, and services**. The city has 60 beaches and is a center of surfing activity.
+Florianópolis is the capital and second largest city of the estate of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland. It has a population of 508,826, according to the 2020 population estimate, the second-most populous city in the estate. The city is known for having the country's **third highest Human Development Index score among all Brazilian cities**. The economy of Florianópolis is heavily based on **information technology, tourism, and services**. The city has 60 beaches and is a center of surfing activity.
 
 The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
 
-<h4 align="center"><a href="https://earapanos.github.io/RealStateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
-<a href="https://earapanos.github.io/RealStateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
+<h4 align="center"><a href="https://earapanos.github.io/RealestateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
+<a href="https://earapanos.github.io/RealestateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
 
-<h3 align="center"><a href="https://github.com/earapanos/RealStateBusinessIntelligence">🎯 Florianópolis Downtown Real State Business Intelligence - Dashboard</a></h3>
+<h3 align="center"><a href="https://github.com/earapanos/RealestateBusinessIntelligence">🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard</a></h3>
 
-This dashboard is a continuation of my <a href="https://github.com/earapanos/RealStateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
+This dashboard is a continuation of my <a href="https://github.com/earapanos/RealestateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
 
-The dashboard was designed to be an interactive tool that enables real estate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
+The dashboard was designed to be an interactive tool that enables real eestate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
 
 <h4 align="center"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">  👇 Click on image to access the Dashboard. </a></h4>
-<a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealStateBusinessIntelligence/assets/52800638/af71e366-1c34-4ae8-873c-e74fe169b4ff" alt="dashboard"> </a> 
+<a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealestateBusinessIntelligence/assets/52800638/af71e366-1c34-4ae8-873c-e74fe169b4ff" alt="dashboard"> </a> 
 
 
 
 <h3>Data source</h3>
-The Real State Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
+The Real estate Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
 
-For use the Real State Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
+For use the Real estate Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
 
 All those processes could be viewed at:
 
-1. <a href="https://github.com/earapanos/RealStateDataAnalysis"> Here in the Github</a>;
-2. <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-state-analysis"> Here in the Kaggle. </a>
-3. <a href="https://github.com/earapanos/RealStateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
+1. <a href="https://github.com/earapanos/RealestateDataAnalysis"> Here in the Github</a>;
+2. <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-estate-analysis"> Here in the Kaggle. </a>
+3. <a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
 
 
 
@@ -151,7 +151,7 @@ Você pode acessar todas as publicações e dados do **Censo de 2022** disponibi
 
 <h2>Data Analysis of census Sector Population of 2010 and 2022 Census - Palhoça City, Brazil</h2>
   
-Palhoça is a city from east part of Santa Catarina State and it is located on Florianópolis Metropolitan Region. Palhoça is an economic centre based on services industries and in your territory there are an important natural reserve, that include a huge hydric rosources, forestry, coastal and scenic. These settings makes Palhoça city a strong destinity of migrants in Brazil.
+Palhoça is a city from east part of Santa Catarina estate and it is located on Florianópolis Metropolitan Region. Palhoça is an economic centre based on services industries and in your territory there are an important natural reserve, that include a huge hydric rosources, forestry, coastal and scenic. These settings makes Palhoça city a strong destinity of migrants in Brazil.
 
 The Brazilian Institute of Geography and Statitics (IBGE as a brazilian acronym) published recently a preview of the population per census sector of all brazilian territory. The results of 2022 Census allow to explore the spatial analysis since there are available the geometries of each census sector.
 
