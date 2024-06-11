@@ -8,10 +8,12 @@
 4. <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable; </a>
 5. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
 6. <a href="https://github.com/earapanos/Census10-22-DataAnalytics">🔎 Data Analytics and Visualization - Palhoça, BR </a>
+7. <a href="https://github.com/earapanos/Python-Geocoding-Data">7. 🚩 Address Geocoding with ArcGIS API </a>
+8. <a href="https://github.com/earapanos/Python-Geocoding-Data">8. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a>
 
 <h2></h2>
 
-<h2 align="center"><a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md"> 🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence</a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md">1. 🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence</a></h2>
 
 ![Design sem nome](https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
 
@@ -23,7 +25,7 @@ The Florianópolis natural characteristics, your great Development Index Score a
 <h4 align="center"><a href="https://earapanos.github.io/RealestateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
 <a href="https://earapanos.github.io/RealestateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
 
-<h3 align="center"><a href="https://github.com/earapanos/RealestateBusinessIntelligence">🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard</a></h3>
+<h3 align="center"><a href="https://github.com/earapanos/RealestateBusinessIntelligence">2. 🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard</a></h3>
 
 This dashboard is a continuation of my <a href="https://github.com/earapanos/RealestateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
 
@@ -48,7 +50,7 @@ All those processes could be viewed at:
 
 
 
-<h2 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB </a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB">3. 🐍 Python-AccessAndDownloadDataDB </a></h2>
 
 ![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
 
@@ -66,7 +68,7 @@ I projected this code in a way to turn easy to change and addapting like the nec
 
 
 
-<h2 align="center"> <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable </a></h2>
+<h2 align="center"> <a href="https://github.com/earapanos/Pandas-PivotingTable">4. 🐼 Pandas-PivotingTable </a></h2>
 
 ![pivoting_table (1)](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/bc416ac2-2860-41ed-9aad-f971da4ede7f)
 
@@ -85,7 +87,7 @@ This process is very important to:
 ![Layout 1](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/639c5a61-c23c-4881-ba85-0ea15c88ece5)
 
 
-<h2 align="center"><a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">5. 🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a></h2>
 
 Nessa dashboard você vai poder visualizar os dados das coordenadas geográficas de domicílios. Estes dados foram divulgados pelo Instituto Brasileiro de Geografia e Estatística - IBGE e fazem parte do levantamento realizado pelo Censo demográfico e socioecomômico realizado em 2022.
 
@@ -145,7 +147,7 @@ NV_GEO_COORD = Variável com o nível de geocodificação do domicílio ou estab
 Você pode acessar todas as publicações e dados do **Censo de 2022** disponibilizados pelo <a href="https://censo2022.ibge.gov.br/panorama/downloads.html?localidade=BR">IBGE AQUI!</a>
 
 
-<h1 align="center"><a href="https://github.com/earapanos/Census10-22-DataAnalytics">🔎 Data Analytics and Visualization - Palhoça, BR </a></h1>
+<h2 align="center"><a href="https://github.com/earapanos/Census10-22-DataAnalytics">6.🔎 Data Analytics and Visualization - Palhoça, BR </a></h2>
 
 ![graph_residents_rispersion_area_2010_2022](https://github.com/earapanos/Census10-22-DataAnalytics/assets/52800638/9eafcdbd-d4fb-412b-8b2d-0356138a8bf9)
 
@@ -180,7 +182,7 @@ The notebook is subdivided in this structure:
 
 <h4 align="left"><a href="https://www.kaggle.com/code/rapanos/data-analytics-and-visualization-palho-a-br"> 🖱 Click here to access the project on Kaggle! </a></h4>
 
-<h1 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">🚩 Address Geocoding with ArcGIS API </a></h1>
+<h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">7. 🚩 Address Geocoding with ArcGIS API </a></h2>
 
 ![openart-image_JECrDnRQ_1715684494402_raw](https://github.com/earapanos/python-geocoding-data/assets/52800638/8fe0bfcb-5937-482d-9c5f-6a671812e51c)
 
@@ -198,6 +200,8 @@ This Python script geocodes addresses from a PostgreSQL database using the ArcGI
 
 #### Usage
 
+
+
 1.  Update the database connection parameters (`host`, `database`, `user`, `password`).
 2.  Specify the schema, table, address column, precision column, and formatted address column in the `main` function.
 3.  Define the municipalities to geocode in the `municipalities` variable.
@@ -209,4 +213,19 @@ This Python script geocodes addresses from a PostgreSQL database using the ArcGI
 *   psycopg2
 *   geopy
 
+<h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">8. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a></h2>
+# WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS)
 
+## Project Overview
+
+This WebGIS project is dedicated to publishing detailed geomorphological, geological, and structural data for the territory of the Caminhos dos Cânions do Sul UNESCO Global Geopark (GCCS). The goal is to provide an accessible platform for visualizing and analyzing the unique geological features and processes that define this region. **Explore the WebGIS platform here: [Geospatial Data GCCS WebMap](https://earapanos.github.io/GeospatialDataGCCS/).**
+
+## Data Sources
+
+The data used in this project are derived from the research article:
+
+[Caracterização Morfoestrutural e Morfoescultural no Território do Geoparque Global UNESCO Caminhos dos Cânions do Sul (RS/SC)](https://www.researchgate.net/publication/362291916_Caracterizacao_morfoestrutural_e_morfoescultural_no_territorio_do_Geoparque_Global_UNESCO_Caminhos_dos_Canions_do_Sul_RSSC)
+
+The vector files are available for download from:
+
+[Geospatial Data GCCS - Vector Layers](https://github.com/earapanos/GeospatialDataGCCS/tree/main/layers/vetoriais)
