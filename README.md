@@ -180,5 +180,33 @@ The notebook is subdivided in this structure:
 
 <h4 align="left"><a href="https://www.kaggle.com/code/rapanos/data-analytics-and-visualization-palho-a-br"> 🖱 Click here to access the project on Kaggle! </a></h4>
 
+### Address Geocoding with ArcGIS API
+
+![openart-image_JECrDnRQ_1715684494402_raw](https://github.com/earapanos/python-geocoding-data/assets/52800638/8fe0bfcb-5937-482d-9c5f-6a671812e51c)
+
+#### Description
+
+This Python script geocodes addresses from a PostgreSQL database using the ArcGIS API. It connects to the database using psycopg2, a PostgreSQL adapter for Python, and geocodes addresses using the geopy library's ArcGIS geocoder. The script is divided into functions to handle database connection, counting geocodable elements, geocoding addresses, updating the geocoded table, and closing the database connection. The main function orchestrates the process and includes error handling to restart the code in case of failure.
+
+#### Features
+
+*   **Database Connection:** Establishes a connection to a PostgreSQL database.
+*   **Element Counting:** Counts the total number of elements and the number of geocodable elements in a specified table and schema.
+*   **Address Geocoding:** Uses the ArcGIS geocoder to geocode addresses from the database.
+*   **Table Update:** Updates the geocoded table in the database with latitude, longitude, geocoding precision, and formatted address.
+*   **Error Handling:** Restarts the code in case of an error, ensuring continuous operation.
+
+#### Usage
+
+1.  Update the database connection parameters (`host`, `database`, `user`, `password`).
+2.  Specify the schema, table, address column, precision column, and formatted address column in the `main` function.
+3.  Define the municipalities to geocode in the `municipalities` variable.
+4.  Run the script to start the geocoding process.
+
+#### Requirements
+
+*   Python 3.x
+*   psycopg2
+*   geopy
 
 
