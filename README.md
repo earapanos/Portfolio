@@ -8,8 +8,8 @@
 4. <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable; </a>
 5. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
 6. <a href="https://github.com/earapanos/Census10-22-DataAnalytics">🔎 Data Analytics and Visualization - Palhoça, BR </a>
-7. <a href="https://github.com/earapanos/Python-Geocoding-Data">7. 🚩 Address Geocoding with ArcGIS API </a>
-8. <a href="https://github.com/earapanos/Python-Geocoding-Data">8. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a>
+7. <a href="https://github.com/earapanos/Python-Geocoding-Data">🚩 Address Geocoding with ArcGIS API </a>
+8. <a href="https://github.com/earapanos/Python-Geocoding-Data">🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a>
 
 <h2></h2>
 
