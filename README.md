@@ -106,7 +106,7 @@ The notebook is subdivided in this structure:
 
 <h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">3. 🚩 Address Geocoding with ArcGIS API </a></h2>
 
-![openart-image_JECrDnRQ_1715684494402_raw](https://github.com/earapanos/python-geocoding-data/assets/52800638/8fe0bfcb-5937-482d-9c5f-6a671812e51c)
+![openart-image_JECrDnRQ_1715684494402_raw](https://github.com/user-attachments/assets/f26bf0e6-66ea-4538-b885-d908c9a0d9b2)
 
 #### Description
 
