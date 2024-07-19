@@ -136,6 +136,11 @@ This Python script geocodes addresses from a PostgreSQL database using the ArcGI
 *   geopy
 
 <h2 align="center"><a href="https://github.com/earapanos/GeospatialDataGCCS">4. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a></h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ba7eca3-31ac-4b24-8e34-28934e981726" alt="Demonstração">
+</div>
+
 # WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS)
 
 ## Project Overview
