@@ -71,7 +71,9 @@ Você pode acessar todas as publicações e dados do **Censo de 2022** disponibi
 
 <h2 align="center"><a href="https://github.com/earapanos/Census10-22-DataAnalytics">2.🔎 Data Analytics and Visualization - Palhoça, BR </a></h2>
 
-![graph_residents_rispersion_area_2010_2022](https://github.com/earapanos/Census10-22-DataAnalytics/assets/52800638/9eafcdbd-d4fb-412b-8b2d-0356138a8bf9)
+<div align="center">
+  <img src="https://github.com/earapanos/Census10-22-DataAnalytics/assets/52800638/9eafcdbd-d4fb-412b-8b2d-0356138a8bf9" alt="Demonstração">
+</div>
 
 <h2>Data Analysis of census Sector Population of 2010 and 2022 Census - Palhoça City, Brazil</h2>
   
