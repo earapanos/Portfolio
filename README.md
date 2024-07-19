@@ -2,92 +2,14 @@
 
 <h3>🔗 Index:</h4>
 
-1. <a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md">🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence;</a>
-2. <a href="https://github.com/earapanos/RealestateBusinessIntelligence">🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard;</a>
-3. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB"> 🐍 Python-AccessAndDownloadDataDB;</a>
-4. <a href="https://github.com/earapanos/Pandas-PivotingTable">🐼 Pandas-PivotingTable; </a>
-5. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
-6. <a href="https://github.com/earapanos/Census10-22-DataAnalytics">🔎 Data Analytics and Visualization - Palhoça, BR </a>
-7. <a href="https://github.com/earapanos/Python-Geocoding-Data">🚩 Address Geocoding with ArcGIS API </a>
-8. <a href="https://github.com/earapanos/Python-Geocoding-Data">🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a>
+1. <a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a>
+2. <a href="https://github.com/earapanos/Census10-22-DataAnalytics">🔎 Data Analytics and Visualization - Palhoça, BR </a>
+3. <a href="https://github.com/earapanos/Python-Geocoding-Data">🚩 Address Geocoding with ArcGIS API </a>
+4. <a href="https://github.com/earapanos/Python-Geocoding-Data">🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a>
 
 <h2></h2>
 
-<h2 align="center"><a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/README.md">1. 🏙 Florianópolis Downtown Real estate Data Analysis and Business Intelligence</a></h2>
-
-![Design sem nome](https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/c8025e32-9c9e-4e20-a1df-b297dba66d7a)
-
-
-Florianópolis is the capital and second largest city of the estate of Santa Catarina, in the South region of Brazil. The city encompasses Santa Catarina Island and surrounding small islands, as well as part of the mainland. It has a population of 508,826, according to the 2020 population estimate, the second-most populous city in the estate. The city is known for having the country's **third highest Human Development Index score among all Brazilian cities**. The economy of Florianópolis is heavily based on **information technology, tourism, and services**. The city has 60 beaches and is a center of surfing activity.
-
-The Florianópolis natural characteristics, your great Development Index Score and strong and dynamic economy make the city a very coveted destination to living.  
-
-<h4 align="center"><a href="https://earapanos.github.io/RealestateDataAnalysis/">  👇 Click on image to access the WebMap. </a></h4>
-<a href="https://earapanos.github.io/RealestateDataAnalysis/" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealestateDataAnalysis/assets/52800638/4d33a22a-0cd1-4eff-a52a-8ce5f10c235d" alt="webmap"> </a> 
-
-<h3 align="center"><a href="https://github.com/earapanos/RealestateBusinessIntelligence">2. 🎯 Florianópolis Downtown Real estate Business Intelligence - Dashboard</a></h3>
-
-This dashboard is a continuation of my <a href="https://github.com/earapanos/RealestateDataAnalysis">Data Analytics and Science project.</a> I developed this work independently and was responsible for creating the screens, selecting the KPIs, and establishing metrics for analyzing the square meter value in the central region of Florianópolis.
-
-The dashboard was designed to be an interactive tool that enables real eestate developers to understand the spatial distribution of the square meter value in downtown Florianópolis. It can also serve as a query tool for individuals looking to acquire property, providing access to information that facilitates the selection of a residential location.
-
-<h4 align="center"><a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57">  👇 Click on image to access the Dashboard. </a></h4>
-<a href="https://lookerstudio.google.com/reporting/d1b03005-bbb7-4c75-97eb-19bfdabefa57" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/RealestateBusinessIntelligence/assets/52800638/af71e366-1c34-4ae8-873c-e74fe169b4ff" alt="dashboard"> </a> 
-
-
-
-<h3>Data source</h3>
-The Real estate Data used were providen by <a href="https://locates.com.br/"> LOCATES technology company.</a> LOCATES main objective is **simplify and potentialize the  property development working with geographic intelligence, big data and artificial intelligence.**
-
-For use the Real estate Data were previously developed some steps of exporting, analysis, cleaning and transformation of the data. 
-
-All those processes could be viewed at:
-
-1. <a href="https://github.com/earapanos/RealestateDataAnalysis"> Here in the Github</a>;
-2. <a href="https://www.kaggle.com/code/rapanos/florian-polis-downtown-real-estate-analysis"> Here in the Kaggle. </a>
-3. <a href="https://github.com/earapanos/RealestateDataAnalysis/blob/main/tabela/df_venda_clean.xlsx"> Here you can access the data used to create this model. </a>
-
-
-
-
-<h2 align="center"><a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB">3. 🐍 Python-AccessAndDownloadDataDB </a></h2>
-
-![readmepic](https://github.com/earapanos/Python-AccessAndDownloadDataDB/assets/52800638/686ed269-441c-439b-8625-4cba540dc15b)
-
-Hello! This code was developed by me using the python object oriented principles.
-
-The objective of this code is turn easy the access and download data from database. This is an important step of Data Alytics because in this step we can filter and select a specific range of data relationed with a temporal time, or a type of information.
-
-<a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB/tree/main/access_db">Here you can access the code.</a>Here you can access the code. I subdvided the code in three parts:
-
-1. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB/blob/main/access_db/main.py">The first</a> part is the main archive, which information about the host, user, password, database and gateway are insert.
-2. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB/blob/main/access_db/conectar_db.py">The second</a> archive which connect with the database.
-3. <a href="https://github.com/earapanos/Python-AccessAndDownloadDataDB/blob/main/access_db/download_tabela.py">The third</a> archive witch download and save the data in the machine.
-
-I projected this code in a way to turn easy to change and addapting like the necessity of daily work.
-
-
-
-<h2 align="center"> <a href="https://github.com/earapanos/Pandas-PivotingTable">4. 🐼 Pandas-PivotingTable </a></h2>
-
-![pivoting_table (1)](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/bc416ac2-2860-41ed-9aad-f971da4ede7f)
-
-In the routine of Data Analyst, it's very common the processes which deal with tables. Pivoting table is a process which consists in transform *columns into lines and vice versa.*
-
-This process is very important to:
-
-* group items/records/rows into categories;
-* count the number of items in each category;
-* sum the items value;
-* or compute average, find minimal or maximal value etc.
-
-<a href="https://github.com/earapanos/Pandas-PivotingTable/blob/main/pivoting-table.ipynb">Here in this code</a>, I used Pandas library to pivot a table. The objective of it was transform columns in lines <a href="https://github.com/earapanos/Pandas-PivotingTable/blob/main/tabela/zon_usos2_202311301557.csv">in this table</a> and realation it with a spatial table on database to create indicators of a specific types of buildins which are allowed do build in the determinated areas.
-
-
-![Layout 1](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/639c5a61-c23c-4881-ba85-0ea15c88ece5)
-
-
-<h2 align="center"><a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">5. 🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/Censo22CoordenadasGeograficas">1. 🗺 Coordenadas Geográficas do Censo IBGE 2022 - Dashboard</a></h2>
 
 Nessa dashboard você vai poder visualizar os dados das coordenadas geográficas de domicílios. Estes dados foram divulgados pelo Instituto Brasileiro de Geografia e Estatística - IBGE e fazem parte do levantamento realizado pelo Censo demográfico e socioecomômico realizado em 2022.
 
@@ -147,7 +69,7 @@ NV_GEO_COORD = Variável com o nível de geocodificação do domicílio ou estab
 Você pode acessar todas as publicações e dados do **Censo de 2022** disponibilizados pelo <a href="https://censo2022.ibge.gov.br/panorama/downloads.html?localidade=BR">IBGE AQUI!</a>
 
 
-<h2 align="center"><a href="https://github.com/earapanos/Census10-22-DataAnalytics">6.🔎 Data Analytics and Visualization - Palhoça, BR </a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/Census10-22-DataAnalytics">2.🔎 Data Analytics and Visualization - Palhoça, BR </a></h2>
 
 ![graph_residents_rispersion_area_2010_2022](https://github.com/earapanos/Census10-22-DataAnalytics/assets/52800638/9eafcdbd-d4fb-412b-8b2d-0356138a8bf9)
 
@@ -182,7 +104,7 @@ The notebook is subdivided in this structure:
 
 <h4 align="left"><a href="https://www.kaggle.com/code/rapanos/data-analytics-and-visualization-palho-a-br"> 🖱 Click here to access the project on Kaggle! </a></h4>
 
-<h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">7. 🚩 Address Geocoding with ArcGIS API </a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">3. 🚩 Address Geocoding with ArcGIS API </a></h2>
 
 ![openart-image_JECrDnRQ_1715684494402_raw](https://github.com/earapanos/python-geocoding-data/assets/52800638/8fe0bfcb-5937-482d-9c5f-6a671812e51c)
 
@@ -213,7 +135,7 @@ This Python script geocodes addresses from a PostgreSQL database using the ArcGI
 *   psycopg2
 *   geopy
 
-<h2 align="center"><a href="https://github.com/earapanos/Python-Geocoding-Data">8. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a></h2>
+<h2 align="center"><a href="https://github.com/earapanos/GeospatialDataGCCS">4. 🧭 WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS) </a></h2>
 # WebGIS Project for Geoparque Caminhos dos Cânions do Sul (GCCS)
 
 ## Project Overview
